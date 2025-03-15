@@ -1,0 +1,3 @@
+C:/Users/zanex/OneDrive/Desktop/Files Folder/My Files/MyProjects/SimpleInventorySystemWithPOS/InventorySystemWithPOS/cmake-build-debug/CMakeFiles/InventorySystemWithPOS.dir
+C:/Users/zanex/OneDrive/Desktop/Files Folder/My Files/MyProjects/SimpleInventorySystemWithPOS/InventorySystemWithPOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zanex/OneDrive/Desktop/Files Folder/My Files/MyProjects/SimpleInventorySystemWithPOS/InventorySystemWithPOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
